@@ -57,7 +57,7 @@ public class GUILogic {
 							, "Error message",JOptionPane.PLAIN_MESSAGE);
 			}
 
-			if	(u != true)
+			if	(u == true)
 					{
 						screen.show(Screen.MAINMENU);
 					}
