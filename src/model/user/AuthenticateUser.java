@@ -1,3 +1,5 @@
+//Klassen er kopieret over til ServerTEO
+
 package model.user;
 
 import java.sql.ResultSet;
